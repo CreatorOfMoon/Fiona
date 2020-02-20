@@ -1,2 +1,3 @@
 # Fiona
-Maybe it will work, maybe nope
+try to build a sentient AI ^^
+
